@@ -1,0 +1,8 @@
+,#,"Country,Other",TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,NewRecovered,ActiveCases,"Serious,Critical",Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
+1M pop
+",Population,Continent,1 Caseevery X ppl,1 Deathevery X ppl,1 Testevery X ppl,New Cases/1M pop,New Deaths/1M pop,Active Cases/1M pop
+0,,Asia,"101,714,275","+32,115","1,296,553",+46,"94,032,535","+12,032","6,385,187","26,524",,,,,,Asia,,,,,,
+1,,South America,"49,297,666","+4,659","1,219,518",+38,"42,363,817","+3,321","5,714,331","14,874",,,,,,South America,,,,,,
+2,,Europe,"130,168,746",,"1,625,614",,"98,214,826","+8,857","30,328,306","18,691",,,,,,Europe,,,,,,
+3,,Africa,"11,112,810",,"240,401",,"9,945,938",,"926,471","2,417",,,,,,Africa,,,,,,
+4,,Oceania,"2,839,635","+32,304","6,389",+83,"2,484,459",+49,"348,787",362,,,,,,Australia/Oceania,,,,,,
